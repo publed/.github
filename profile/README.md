@@ -1,4 +1,5 @@
-## Publed | Democratizing Scientific Publishing
+## Publed 
+> | Democratizing Scientific Publishing
 
 Welcome to the Publed! Join us and take control of your scientific contributions! Monetize, be rewarded! Unlock the potential of your research with our decentralized, transparent, and collaborative platform.
 
