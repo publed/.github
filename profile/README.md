@@ -7,10 +7,9 @@
 
 ## About Publed
 
-We aim to democratize scientific publishing by creating a decentralized ecosystem that fosters open access, transparent peer review, and global collaboration. By leveraging _Web3_ technologies like **Blockchain**, **NFTs**, and **Decentralized Storage**, we facilitate access to research, incentivize quality contributions, and empower the scientific community to drive innovation and knowledge dissemination.
+➡️ We aim to democratize scientific publishing by creating a decentralized ecosystem that fosters open access, transparent peer review, and global collaboration. By leveraging _Web3_ technologies like **Blockchain**, **NFTs**, and **Decentralized Storage**, we facilitate access to research, incentivize quality contributions, and empower the scientific community to drive innovation and knowledge dissemination.
 
 ## Repos
-
 
 ### [publed-landing](https://github.com/publed/publed-landing)
 > Publed → Landing Page
