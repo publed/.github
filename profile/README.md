@@ -21,7 +21,7 @@
 
 🌐 https://app.publed.io
 
-[//]: <> (## OPOS Hackathon)
+## Solana Hyperdrive Hackathon
 
 ### **Publed**
 ---
